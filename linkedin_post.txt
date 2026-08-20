@@ -1,0 +1,35 @@
+LinkedIn Post — AI Job Hunter
+==============================
+
+I see people in reels flexing "Connect Claude to Apify and automate your job search!"
+
+Cool demo. But here's the problem:
+
+- Claude/paid APIs = $$$$ per token
+- Rate limits hit you mid-search
+- Subscription required for decent usage
+- One actor runs, and your credits evaporate
+
+So I built the same thing — but free.
+
+Stack:
+- Apify (LinkedIn Jobs Scraper) — the same actor everyone uses
+- Groq API — free tier, runs LLM inference fast
+- ATS scoring engine — deterministic 8-category analysis (skills, experience, role alignment, education, certifications...)
+- Streamlit — clean chat UI
+
+How it works:
+1. Upload your CV — any background, tech or non-tech
+2. It auto-detects your skills and sends them to LinkedIn
+3. Apify scrapes fresh matching jobs
+4. Every job gets an ATS score (0-100) against YOUR CV — irrelevant jobs get filtered out
+5. Jobs sorted by match score — highest first, with hyperlinks
+6. Click "Full Analysis" on any job → full breakdown: category scores, matched skills, missing requirements, recommendations
+
+No Claude subscription. No API bills. Same Apify actors. Free LLM.
+
+The reels show Claude because it looks cool. But for job search automation, you don't need $20/month — you need Apify + a free LLM + smart engineering.
+
+Stop paying for what you can build for free.
+
+#AI #JobSearch #Apify #Groq #ATS #OpenSource #Automation #TechCareers #Streamlit
