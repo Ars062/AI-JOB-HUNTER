@@ -35,7 +35,7 @@ Get keys (both have free tiers):
 
 ## Demo
 
-https://drive.google.com/file/d/1ijopzkoQfas1_oEqhofSef-uhXifvUm8/preview
+[![Demo Video](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ijopzkoQfas1_oEqhofSef-uhXifvUm8/view?usp=sharing)
 
 ## Run
 

@@ -22,3 +22,7 @@ Thumbs.db
 # IDE
 .idea/
 .vscode/
+
+# Generated files (not part of the app)
+thumbnail.png
+make_thumbnail.py
