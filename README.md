@@ -33,6 +33,10 @@ Get keys (both have free tiers):
 - Apify: https://console.apify.com/settings/integrations
 - Groq: https://console.groq.com/keys
 
+## Demo
+
+https://drive.google.com/file/d/1ijopzkoQfas1_oEqhofSef-uhXifvUm8/preview
+
 ## Run
 
 ```bash
