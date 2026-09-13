@@ -79,7 +79,8 @@ src/
     llm_client.py         Groq JSON client (retry, JSON coercion, thinking stripping)
     models.py             Pydantic schemas (ResumeData, JobData, ScoringResult...)
 ```
-
+##DEMO 
+[https://drive.google.com/file/d/1ijopzkoQfas1_oEqhofSef-uhXifvUm8/view?usp=drive_link]
 ## Configuration (`.env`)
 
 ```ini
